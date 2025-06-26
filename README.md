@@ -18,28 +18,47 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🏆 GitHub Trophies
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanzidemon&theme=radical&no-frame=true&column=7" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shanzidemon&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=shanzidemon&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shanzidemon&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanzidemon&layout=compact&langs_count=6&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanzidemon&layout=compact&langs_count=6&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanzidemon&theme=react-dark&area=true&hide_border=true" />
 </p>
 
+---
 
+## 🧠 Currently Exploring
 
+- 🤖 Building AI models using Python and TensorFlow
+- 🌐 Learning backend with Node.js & Express
+- 🧪 Practicing Data Structures and Algorithms
+- ☁️ Basics of Cloud with AWS and Firebase
 
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://shanzidemon.com"><img src="https://img.shields.io/badge/🌐_Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shanzidemon/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
