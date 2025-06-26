@@ -13,8 +13,8 @@
 - 🧠 Currently learning and working with **Artificial Intelligence**
 - 💻 Programming Languages: `C++`, `Java`, `Python`
 - 🔭 Interested in **Machine Learning**, **Full-Stack Projects**, and **Problem Solving**
-- 🌐 Website: [shanzidemon.com](https://shanzidemon.com)
-- 🔗 LinkedIn: [Shanzid Helal Emon](https://www.linkedin.com/in/shanzidemon/)
+- 🎓 Computer Science student with a passion for building real-world solutions
+- 🚀 Always exploring the intersection between **AI** and **Software Development**
 
 ---
 ---
