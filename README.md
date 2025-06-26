@@ -17,6 +17,15 @@
 - 🔗 LinkedIn: [Shanzid Helal Emon](https://www.linkedin.com/in/shanzidemon/)
 
 ---
+---
+
+## 🚀 Languages & Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,vscode,github,linux" alt="Tech Stack Icons"/>
+</p>
+
+
 
 ## 🏆 GitHub Trophies
 
