@@ -33,10 +33,6 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanzidemon&layout=compact&langs_count=6&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanzidemon&theme=react-dark&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🧠 Currently Exploring
