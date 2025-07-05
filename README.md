@@ -27,13 +27,13 @@
 
 
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shanzidemon&theme=radical&no-frame=true&column=7" />
 </p>
 
----
+----->
 
 ## 📊 GitHub Stats
 
