@@ -4,7 +4,9 @@
 
 # 👋 Hi, I’m Shanzid Helal Emon
 
-🎓 A passionate CSE student at **American International University - Bangladesh (AIUB)**, always exploring the world of technology and innovation.
+🎓 A passionate CSE student at **American International University - Bangladesh (AIUB)**, always exploring the world of technology and innovation.Shanzid Helal Emon is a Computer Science and Engineering undergraduate at AIUB, driven by a strong commitment to connecting software development with artificial intelligence. He focuses on building intelligent, human-centered systems that not only solve problems but also inspire innovation and ethical progress.
+
+His interests lie in machine learning, deep learning, and generative AI, where he focuses on transforming research ideas into practical, real-world solutions.
 
 ---
 
