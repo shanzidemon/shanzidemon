@@ -17,6 +17,7 @@ His interests lie in machine learning, deep learning, and generative AI, where h
 - 🔭 Interested in **Machine Learning**, **Full-Stack Projects**, and **Problem Solving**
 - 🎓 Computer Science student with a passion for building real-world solutions
 - 🚀 Always exploring the intersection between **AI** and **Software Development**
+- Research Interests: Machine Learning, Deep Learning, Computer Vision, Generative AI
 
 ---
 ---
